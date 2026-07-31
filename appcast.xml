@@ -37,7 +37,7 @@
         </ul>
         ]]></sparkle:releaseNotes>
 
-        <enclosure url="https://github.com/bimover/Support/releases/download/v0.5.0/bimover-Support-0.5.0.zip"
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v0.5.0/bimover-Support-0.5.0.zip"
             xml:lang="de"
             sparkle:shortVersionString="0.5.0"
             sparkle:version="500"
@@ -56,7 +56,7 @@
         </ul>
         ]]></sparkle:releaseNotes>
 
-        <enclosure url="https://github.com/bimover/Support/releases/download/v0.4.0/bimover-Support-0.4.0.zip"
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v0.4.0/bimover-Support-0.4.0.zip"
             xml:lang="de"
             sparkle:shortVersionString="0.4.0"
             sparkle:version="400"
@@ -75,7 +75,7 @@
         </ul>
         ]]></sparkle:releaseNotes>
 
-        <enclosure url="https://github.com/bimover/Support/releases/download/v0.3.0/bimover-Support-0.3.0.zip"
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v0.3.0/bimover-Support-0.3.0.zip"
             xml:lang="de"
             sparkle:shortVersionString="0.3.0"
             sparkle:version="300"
@@ -94,7 +94,7 @@
         </ul>
         ]]></sparkle:releaseNotes>
 
-        <enclosure url="https://github.com/bimover/Support/releases/download/v0.2.0/bimover-Support-0.2.0.zip"
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v0.2.0/bimover-Support-0.2.0.zip"
             xml:lang="de"
             sparkle:shortVersionString="0.2.0"
             sparkle:version="200"
@@ -113,7 +113,7 @@
         </ul>
         ]]></sparkle:releaseNotes>
 
-        <enclosure url="https://github.com/bimover/Support/releases/download/v0.1.0/bimover-Support-0.1.0.zip"
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v0.1.0/bimover-Support-0.1.0.zip"
             xml:lang="de"
             sparkle:shortVersionString="0.1.0"
             sparkle:version="100"
