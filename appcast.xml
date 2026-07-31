@@ -9,6 +9,25 @@
     <description>Update feed for bimover</description>
 
     <item>
+        <title>bimover 1.0.2</title>
+        <pubDate>Fri, 31 Jul 2026 13:17:10 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Die Marke erscheint jetzt als Logo statt als Schriftzug — damit ist auf einen Blick klar: bim-over.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v1.0.2/bimover-1.0.2.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="1.0.2"
+            sparkle:version="10002"
+            sparkle:edSignature="9bBNSHxjG1hyY7RPx9Fxhm0TKiDF72xNUUPshGLBSovBPz+f9o7njV+ly8UZJP3FlKO4wcGhrUan1kHwNfX2DA=="
+            length="5464176"
+            type="application/zip"/>
+    </item>
+
+    <item>
         <title>bimover 1.0.1</title>
         <pubDate>Fri, 31 Jul 2026 13:11:12 +0200</pubDate>
         <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
