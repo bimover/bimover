@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <channel>
+    <title>bimover Updates</title>
+    <link>https://updates.bimover.ch/support/appcast.xml</link>
+    <description>Update feed for bimover</description>
+
+    <item>
+        <title>bimover 1.0.0</title>
+        <pubDate>Fri, 31 Jul 2026 11:09:43 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Die App heisst neu einfach <strong>bimover</strong> — dieselbe App, klarerer Name.</li><li>Neu: Wünsche & Ideen — schlage Verbesserungen vor und stimme für Vorschläge anderer ab.</li><li>Anmeldung und Einstellungen werden automatisch übernommen.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v1.0.0/bimover-1.0.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="1.0.0"
+            sparkle:version="10000"
+            sparkle:edSignature="1yOUoNy8S6iBNQDeqU7fR+HiscqYaKWyso6xQ7v3lo3UDVS/DlUWieBz1pyp4MVquF3GRvatQ8M/WGL+45NNBw=="
+            length="4390465"
+            type="application/zip"/>
+    </item>
+
+    <item>
+        <title>bimover Support 0.5.0</title>
+        <pubDate>Fri, 31 Jul 2026 10:22:05 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Neu: Bewerte gelöste Tickets direkt in der App — mit einem Klick auf die Sterne oder genauer nach Lösung, Ablauf und Freundlichkeit. Kommentar optional.</li><li>Mitteilungen können jetzt gestaltet sein: mit Bild oder als formatierte Ansicht.</li><li>Kleinere Verbesserungen an Hilfe-Suche und Mitteilungen.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/Support/releases/download/v0.5.0/bimover-Support-0.5.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="0.5.0"
+            sparkle:version="500"
+            sparkle:edSignature="spSa2S1MqUqwwWLZoaeMmtXHLT8tWVInccGbf7Iq2GRSAqY7AbNSD97WzwKamyvKQ1xzJoM+byfJdBBcsvLNDA=="
+            length="5429692"
+            type="application/zip"/>
+    </item>
+
+    <item>
+        <title>bimover Support 0.4.0</title>
+        <pubDate>Fri, 31 Jul 2026 08:34:54 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Neu: Hilfe — durchsuche die bimover-Selbsthilfe direkt in der App und öffne passende Anleitungen.</li><li>Neu: Meine Apps — deine bimover-Produkte mit Lizenz-Status auf einen Blick.</li><li>Das Ticket-Formular auf bimover.ch schlägt dir jetzt passende Selbsthilfe-Artikel vor, bevor du absendest.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/Support/releases/download/v0.4.0/bimover-Support-0.4.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="0.4.0"
+            sparkle:version="400"
+            sparkle:edSignature="5DGB0zlxpkpVq+rOoebTZU1a/Mn4HVcAtxZO1TkN4fbj3tyYlzx/EQ6mebRQ9DEp+h6KgoJPpmDThAZA1Oi7DA=="
+            length="5274966"
+            type="application/zip"/>
+    </item>
+
+    <item>
+        <title>bimover Support 0.3.0</title>
+        <pubDate>Fri, 31 Jul 2026 07:20:20 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Neu: Mitteilungen — bimover informiert dich direkt in der App über neue Apps, Funktionen und den Betriebsstatus.</li><li>Du bestimmst in den Einstellungen, welche Kategorien du sehen willst (Produkt-Neuigkeiten, Angebote). Betriebs- und Sicherheitshinweise bleiben immer aktiv.</li><li>Kein E-Mail-Versand, kein Lese-Tracking — der Gelesen-Status bleibt auf deinem Gerät. Details: bimover.ch/privacy</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/Support/releases/download/v0.3.0/bimover-Support-0.3.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="0.3.0"
+            sparkle:version="300"
+            sparkle:edSignature="7K9wAnpsyLFKhTYnctfUqr4cJzmD02ISA9DD+IYUXYFTcL4Aar+cq6ay9u64DI0jR2hcvRYelF3nGU6NH+ETDg=="
+            length="5253983"
+            type="application/zip"/>
+    </item>
+
+    <item>
+        <title>bimover Support 0.2.0</title>
+        <pubDate>Fri, 31 Jul 2026 07:01:02 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Die App lebt jetzt oben in der Menüleiste (ohne Dock-Symbol) und startet automatisch beim Anmelden — beides in den Einstellungen abschaltbar.</li><li>Fenster schliessen beendet die App nicht mehr; sie bleibt für den Support erreichbar.</li><li>Deutlich sparsamer: Bildschirmübertragung läuft nur noch während einer aktiven Fernwartung, im Leerlauf praktisch kein CPU-Verbrauch.</li><li>Installiert sich beim ersten Start selbst nach Programme (keine Adminrechte nötig) und fragt alle Berechtigungen gebündelt an.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/Support/releases/download/v0.2.0/bimover-Support-0.2.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="0.2.0"
+            sparkle:version="200"
+            sparkle:edSignature="cNf4DVobAN2je3L28t1gTcKNHmWu4ALnbbNHoZa9M7DiwsjUGZOuTlexAD4v2vph4uHWtwtl7V9sMpGEcUDJBQ=="
+            length="5229481"
+            type="application/zip"/>
+    </item>
+
+    <item>
+        <title>bimover Support 0.1.0</title>
+        <pubDate>Thu, 30 Jul 2026 13:41:07 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Erste öffentliche Version: Fernwartung mit bimover-Konto-Login, Zustimmung per Klick, Audio-Bereitschafts-Check.</li><li>Installiert sich selbst nach ~/Programme — keine Adminrechte nötig.</li><li>Automatische Updates über Sparkle 2.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/Support/releases/download/v0.1.0/bimover-Support-0.1.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="0.1.0"
+            sparkle:version="100"
+            sparkle:edSignature="/qT5Vzdbj7OitUzF3ajRy1EXsvJ3+GdPOwhbaHaATPd6ksoHkiwuLZcsByQ++pSMF8dljI7GJbRnrHsHnx+9BQ=="
+            length="5124401"
+            type="application/zip"/>
+    </item>
+
+  </channel>
+</rss>
