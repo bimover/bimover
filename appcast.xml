@@ -9,6 +9,25 @@
     <description>Update feed for bimover</description>
 
     <item>
+        <title>bimover 1.0.1</title>
+        <pubDate>Fri, 31 Jul 2026 13:11:12 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Behoben: Die App konnte nach der Installation abstürzen, statt zu starten.</li><li>Behoben: Automatische Updates funktionierten in 1.0.0 nicht — ab dieser Version wieder.</li><li>Der Start beim Anmelden wird nun zuverlässig eingerichtet.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v1.0.1/bimover-1.0.1.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="1.0.1"
+            sparkle:version="10001"
+            sparkle:edSignature="TufJyEyDXQE0fZRFPzxkYTlddE+DVT9N1QBe4Txj668cN+i8npnGXf8lvm3Qoxu4x5ECgiklJnLlWVYo1bznAg=="
+            length="5442772"
+            type="application/zip"/>
+    </item>
+
+    <item>
         <title>bimover 1.0.0</title>
         <pubDate>Fri, 31 Jul 2026 11:09:43 +0200</pubDate>
         <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
