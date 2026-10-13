@@ -9,6 +9,25 @@
     <description>Update feed for bimover</description>
 
     <item>
+        <title>bimover 1.1.0</title>
+        <pubDate>Tue, 13 Oct 2026 10:58:35 +0200</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Die Mac-App ist neu gebaut und hat eine neue Oberfläche. Die Fernwartung funktioniert wie bisher.</li><li>Nach dem Update meldest du dich einmal neu mit deinem bimover-Konto an.</li><li>Neu ist die KI-Hilfe: Sie schaut sich ein Problem mit dir an, bevor du eine Meldung schickst. Dafür nutzt sie Claude Code, Codex oder Copilot auf deinem Mac.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v1.1.0/bimover-1.1.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="1.1.0"
+            sparkle:version="10100"
+            sparkle:edSignature="gpMpa5bCpkFcikDqXqiB5m29HZipCDdtjDS87jj/AbkbdA40D2kjYOVkMXU3bTW67IjasMBznfd8mcp7mTSVDQ=="
+            length="13929442"
+            type="application/zip"/>
+    </item>
+
+    <item>
         <title>bimover 1.0.4</title>
         <pubDate>Sun, 11 Oct 2026 05:05:45 +0200</pubDate>
         <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
