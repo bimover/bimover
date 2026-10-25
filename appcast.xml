@@ -9,6 +9,25 @@
     <description>Update feed for bimover</description>
 
     <item>
+        <title>bimover 1.2.0</title>
+        <pubDate>Sun, 25 Oct 2026 09:45:35 +0100</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Geht etwas nicht, nimmst du es gleich hier auf: Die App hält deinen Bildschirm und deine Worte fest und macht daraus ein Ticket.</li><li>In Filum und Cloya verbindest du die Support-App mit einem Klick.</li><li>Die Hilfe schaut sich ein Problem mit dir an, bevor du eine Meldung schickst.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v1.2.0/bimover-1.2.0.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="1.2.0"
+            sparkle:version="10200"
+            sparkle:edSignature="6XLfkidT4rssjGrFdgoyiwIs2C52ybGLXowz67e6+DG0uwvH65y3auiWDYusuZkdwqO79VXkpA9owlhMugqUBg=="
+            length="20270469"
+            type="application/zip"/>
+    </item>
+
+    <item>
         <title>bimover 1.1.0</title>
         <pubDate>Tue, 13 Oct 2026 10:58:35 +0200</pubDate>
         <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
