@@ -9,6 +9,25 @@
     <description>Update feed for bimover</description>
 
     <item>
+        <title>bimover 1.2.1</title>
+        <pubDate>Sun, 25 Oct 2026 15:57:18 +0100</pubDate>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <sparkle:releaseNotes><![CDATA[
+        <ul>
+            <li>Hilfe und Feedback führt dich Schritt für Schritt: Beschreib dein Anliegen oder zeig es in der App, bimover antwortet gleich, wo es kann.</li><li>Die Fernwartung erreichst du jederzeit oben rechts.</li><li>Unter Meine Apps siehst du deine Apps und Add-ons mit der Stufe deiner Lizenz.</li>
+        </ul>
+        ]]></sparkle:releaseNotes>
+
+        <enclosure url="https://github.com/bimover/bimover/releases/download/v1.2.1/bimover-1.2.1.zip"
+            xml:lang="de"
+            sparkle:shortVersionString="1.2.1"
+            sparkle:version="10201"
+            sparkle:edSignature="W3piRZh7GcMB9V3Nkk5661RNcKzflt8zbA3ZCG6QHmVdqUHAb92tgLCC9mKoSTz3mBSlhpzHkkRZCDz8t3F7Bg=="
+            length="20360441"
+            type="application/zip"/>
+    </item>
+
+    <item>
         <title>bimover 1.2.0</title>
         <pubDate>Sun, 25 Oct 2026 09:45:35 +0100</pubDate>
         <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
